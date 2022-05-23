@@ -1,0 +1,21 @@
+{
+  "_fv": 6,
+  "_type": "food",
+  "definition": {
+    "renderType": 0,
+    "texture": "paimon",
+    "customModelName": "Normal",
+    "name": "Paimon",
+    "creativeTab": {
+      "value": "CUSTOM:Tab"
+    },
+    "stackSize": 64,
+    "nutritionalValue": 8,
+    "saturation": 0.30000000000000004,
+    "eatingSpeed": 32,
+    "forDogs": true,
+    "isAlwaysEdible": true,
+    "animation": "eat",
+    "hasGlow": false
+  }
+}

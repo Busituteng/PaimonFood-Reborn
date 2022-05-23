@@ -1,0 +1,11 @@
+{
+  "_fv": 6,
+  "_type": "tab",
+  "definition": {
+    "name": "Paimon Food:Reborn",
+    "icon": {
+      "value": "CUSTOM:Paimon"
+    },
+    "showSearch": true
+  }
+}

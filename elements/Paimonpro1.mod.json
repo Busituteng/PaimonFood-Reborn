@@ -1,0 +1,45 @@
+{
+  "_fv": 6,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "recipeRetstackSize": 2,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "Items.APPLE"
+      },
+      {
+        "value": "Items.WHEAT"
+      },
+      {
+        "value": "Items.APPLE"
+      },
+      {
+        "value": "Items.WHEAT"
+      },
+      {
+        "value": "CUSTOM:Paimon"
+      },
+      {
+        "value": "Items.WHEAT"
+      },
+      {
+        "value": "Items.APPLE"
+      },
+      {
+        "value": "Items.WHEAT"
+      },
+      {
+        "value": "Items.APPLE"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:Paimonpro"
+    },
+    "name": "paimonpro1",
+    "namespace": "mod"
+  }
+}
