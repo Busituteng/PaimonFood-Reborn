@@ -1,0 +1,29 @@
+{
+  "display": {
+    "icon": {
+      "item": "paimonfoodreborn:paimondimension"
+    },
+    "title": {
+      "translate": "advancements.paimondimension1.title"
+    },
+    "description": {
+      "translate": "advancements.paimondimension1.descr"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "paimondimension1": {
+      "trigger": "minecraft:changed_dimension",
+      "conditions": {
+        "to": "paimonfoodreborn:paimondimension"
+      }
+    }
+  },
+  "rewards": {
+    "experience": 1
+  },
+  "parent": "paimonfoodreborn:paimongem3"
+}

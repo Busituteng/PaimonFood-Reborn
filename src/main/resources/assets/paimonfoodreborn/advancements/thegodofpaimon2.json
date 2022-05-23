@@ -1,0 +1,37 @@
+{
+  "display": {
+    "icon": {
+      "item": "paimonfoodreborn:thegodofpaimon"
+    },
+    "title": {
+      "translate": "advancements.thegodofpaimon2.title"
+    },
+    "description": {
+      "translate": "advancements.thegodofpaimon2.descr"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "thegodofpaimon2": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "paimonfoodreborn:thegodofpaimon",
+            "count": {
+              "min": 1,
+              "max": 1
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 4
+  },
+  "parent": "paimonfoodreborn:paimongem3"
+}

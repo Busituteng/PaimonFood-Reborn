@@ -1,0 +1,26 @@
+{
+  "group": "paimonfoodreborn",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:apple"
+    },
+    "1": {
+      "item": "minecraft:wheat"
+    },
+    "2": {
+      "item": "minecraft:wheat"
+    },
+    "3": {
+      "item": "minecraft:apple"
+    }
+  },
+  "result": {
+    "item": "paimonfoodreborn:paimon",
+    "count": 4
+  }
+}

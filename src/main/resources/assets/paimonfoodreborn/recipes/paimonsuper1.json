@@ -1,0 +1,43 @@
+{
+  "group": "paimonfoodreborn",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:baked_potato"
+    },
+    "1": {
+      "item": "minecraft:pumpkin_pie"
+    },
+    "2": {
+      "item": "minecraft:cooked_fish",
+      "data": 0
+    },
+    "3": {
+      "item": "minecraft:apple"
+    },
+    "4": {
+      "item": "paimonfoodreborn:paimonpro"
+    },
+    "5": {
+      "item": "minecraft:sugar"
+    },
+    "6": {
+      "item": "minecraft:cooked_beef"
+    },
+    "7": {
+      "item": "minecraft:cooked_mutton"
+    },
+    "8": {
+      "item": "minecraft:cooked_chicken"
+    }
+  },
+  "result": {
+    "item": "paimonfoodreborn:paimonsuper",
+    "count": 2
+  }
+}

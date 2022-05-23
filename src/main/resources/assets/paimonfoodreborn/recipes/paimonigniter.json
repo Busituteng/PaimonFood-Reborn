@@ -1,0 +1,16 @@
+{
+  "group": "paimonfoodreborn",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:emerald"
+    },
+    {
+      "item": "paimonfoodreborn:paimongem"
+    }
+  ],
+  "result": {
+    "item": "paimonfoodreborn:paimondimension",
+    "count": 1
+  }
+}

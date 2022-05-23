@@ -1,0 +1,36 @@
+{
+  "group": "paimonfoodreborn",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "paimonfoodreborn:paimonpro"
+    },
+    "1": {
+      "item": "paimonfoodreborn:paimonblockpro"
+    },
+    "2": {
+      "item": "paimonfoodreborn:paimonpro"
+    },
+    "3": {
+      "item": "minecraft:emerald"
+    },
+    "4": {
+      "item": "paimonfoodreborn:paimonblockpro"
+    },
+    "5": {
+      "item": "minecraft:emerald"
+    },
+    "7": {
+      "item": "paimonfoodreborn:paimonsword"
+    }
+  },
+  "result": {
+    "item": "paimonfoodreborn:paimonswordpro",
+    "count": 1
+  }
+}

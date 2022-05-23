@@ -1,0 +1,24 @@
+{
+  "group": "paimonfoodreborn",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1",
+    "2"
+  ],
+  "key": {
+    "0": {
+      "item": "paimonfoodreborn:paimongem"
+    },
+    "1": {
+      "item": "paimonfoodreborn:paimongem"
+    },
+    "2": {
+      "item": "paimonfoodreborn:paimonswordsuper"
+    }
+  },
+  "result": {
+    "item": "paimonfoodreborn:thegodofpaimon",
+    "count": 1
+  }
+}

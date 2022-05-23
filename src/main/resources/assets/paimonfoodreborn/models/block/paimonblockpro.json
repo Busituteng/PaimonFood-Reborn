@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "paimonfoodreborn:blocks/paimon_block_pro",
+    "up": "paimonfoodreborn:blocks/paimon_block_pro",
+    "north": "paimonfoodreborn:blocks/paimon_block_pro",
+    "east": "paimonfoodreborn:blocks/paimon_block_pro",
+    "south": "paimonfoodreborn:blocks/paimon_block_pro",
+    "west": "paimonfoodreborn:blocks/paimon_block_pro",
+    "particle": "paimonfoodreborn:blocks/paimon_block_pro"
+  }
+}

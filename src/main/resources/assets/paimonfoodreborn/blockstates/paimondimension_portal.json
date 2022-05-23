@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "axis=z": {
+      "model": "paimonfoodreborn:paimondimension_portal_ew"
+    },
+    "axis=x": {
+      "model": "paimonfoodreborn:paimondimension_portal_ns"
+    },
+    "inventory": {
+      "model": "paimonfoodreborn:paimondimension_portal_ns"
+    }
+  }
+}

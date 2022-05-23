@@ -1,0 +1,37 @@
+{
+  "display": {
+    "icon": {
+      "item": "paimonfoodreborn:paimonswordsuper"
+    },
+    "title": {
+      "translate": "advancements.paimonswordsuper3.title"
+    },
+    "description": {
+      "translate": "advancements.paimonswordsuper3.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "paimonswordsuper3": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "paimonfoodreborn:paimonswordsuper",
+            "count": {
+              "min": 1,
+              "max": 1
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 0
+  },
+  "parent": "paimonfoodreborn:paimonsword3"
+}

@@ -1,0 +1,36 @@
+{
+  "group": "paimonfoodreborn",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "paimonfoodreborn:paimon"
+    },
+    "1": {
+      "item": "paimonfoodreborn:paimonblock"
+    },
+    "2": {
+      "item": "paimonfoodreborn:paimon"
+    },
+    "3": {
+      "item": "minecraft:diamond"
+    },
+    "4": {
+      "item": "paimonfoodreborn:paimonblock"
+    },
+    "5": {
+      "item": "minecraft:diamond"
+    },
+    "7": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "paimonfoodreborn:paimonsword",
+    "count": 1
+  }
+}

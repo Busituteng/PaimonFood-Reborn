@@ -1,0 +1,22 @@
+{
+  "group": "paimonfoodreborn",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "paimonfoodreborn:paimonsuper"
+    },
+    {
+      "item": "paimonfoodreborn:paimonsuper"
+    },
+    {
+      "item": "paimonfoodreborn:paimonsuper"
+    },
+    {
+      "item": "paimonfoodreborn:paimonsuper"
+    }
+  ],
+  "result": {
+    "item": "paimonfoodreborn:paimonblocksuper",
+    "count": 1
+  }
+}
