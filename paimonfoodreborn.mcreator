@@ -1,0 +1,452 @@
+{
+  "id_map": {
+    "DIMENSION": 1,
+    "ENTITY": 2
+  },
+  "mod_elements": [
+    {
+      "name": "Paimon",
+      "type": "food",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Tab",
+      "type": "tab",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Paimon1",
+      "type": "recipe",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Paimonblock",
+      "type": "block",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Paimonblock1",
+      "type": "recipe",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Paimon2",
+      "type": "recipe",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Paimonsword",
+      "type": "tool",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Paimonsword1",
+      "type": "recipe",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Paimonpro",
+      "type": "food",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Paimonpro1",
+      "type": "recipe",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Paimonblockpro",
+      "type": "block",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Paimonblockpro1",
+      "type": "recipe",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Paimonpro2",
+      "type": "recipe",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Paimonswordpro",
+      "type": "tool",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Paimonswordpro1",
+      "type": "recipe",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Paimonsuper",
+      "type": "food",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Paimonsuper1",
+      "type": "recipe",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Paimonblocksuper",
+      "type": "block",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Paimonblocksuper1",
+      "type": "recipe",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Paimonsuper2",
+      "type": "recipe",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Paimonswordsuper",
+      "type": "tool",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Paimonswordsuper1",
+      "type": "recipe",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Paimongem",
+      "type": "item",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "PaimonsuperFoodEaten",
+      "type": "procedure",
+      "sortid": 26,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Paimongem1",
+      "type": "recipe",
+      "sortid": 27,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Thegodofpaimon",
+      "type": "tool",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "ThegodofpaimonRightClickedInAir",
+      "type": "procedure",
+      "sortid": 28,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Paimonshead",
+      "type": "armor",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "eh": true,
+        "el": false,
+        "eb": false,
+        "ec": false
+      }
+    },
+    {
+      "name": "Paimonbiome",
+      "type": "biome",
+      "sortid": 29,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "PaimonDimension",
+      "type": "dimension",
+      "sortid": 29,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {
+        "1": 1
+      }
+    },
+    {
+      "name": "Paimonigniter",
+      "type": "recipe",
+      "sortid": 30,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Paimonmob",
+      "type": "mob",
+      "sortid": 31,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {
+        "0": 1,
+        "1": 2
+      }
+    },
+    {
+      "name": "PaimonsheadHelmetTickEvent",
+      "type": "procedure",
+      "sortid": 32,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Paimon3",
+      "type": "achievement",
+      "sortid": 33,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Paimonsword3",
+      "type": "achievement",
+      "sortid": 34,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Paimonswordsuper3",
+      "type": "achievement",
+      "sortid": 35,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Paimongem3",
+      "type": "achievement",
+      "sortid": 36,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Paimondimension1",
+      "type": "achievement",
+      "sortid": 37,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Thegodofpaimon2",
+      "type": "achievement",
+      "sortid": 38,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Thegodofpaimon1",
+      "type": "recipe",
+      "sortid": 39,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "item.paimonsheadbody.name": "",
+      "entity.paimonmob.name": "Paimon",
+      "advancements.paimonsword3.title": "Paimon Sword!",
+      "advancements.paimondimension1.descr": "Get into Paimon Dimension.",
+      "item.paimonsheadboots.name": "",
+      "advancements.thegodofpaimon2.descr": "Make a The God Of Paimon.",
+      "advancements.paimondimension1.title": "Where We Are?",
+      "item.paimonswordpro.name": "Paimonsword Pro",
+      "advancements.paimon3.descr": "Make a paimon.",
+      "item.paimonsword.name": "Paimonsword",
+      "tile.paimonblocksuper.name": "Paimonblock Super",
+      "advancements.paimon3.title": "You Make A Paimon!",
+      "advancements.thegodofpaimon2.title": "The God Of Paimon!",
+      "advancements.paimongem3.title": "What\u0027s This?",
+      "item.paimonsheadlegs.name": "",
+      "item.paimonsuper.name": "Paimon Super",
+      "advancements.paimonsword3.descr": "Make a Paimon Sword.",
+      "item.thegodofpaimon.name": "The God Of Paimon",
+      "tile.paimonblock.name": "Paimonblock",
+      "item.paimon.name": "Paimon",
+      "tile.paimonblockpro.name": "Paimonblock Pro",
+      "advancements.paimongem3.descr": "Make a Paimon Gem.",
+      "item.paimongem.name": "Paimongem",
+      "advancements.paimonswordsuper3.title": "Super Paimon Sword!",
+      "item.paimonswordsuper.name": "Paimonsword Super",
+      "advancements.paimonswordsuper3.descr": "Make a Paimon Sword Super.",
+      "item.paimonpro.name": "Paimon Pro",
+      "item.paimondimension.name": "Paimon Dimension Portal Igniter",
+      "itemGroup.tabtab": "Paimon Food:Reborn",
+      "item.paimonsheadhelmet.name": "Paimon\u0027s Head"
+    },
+    "zh_cn": {
+      "item.paimonsheadbody.name": "",
+      "entity.paimonmob.name": "派蒙",
+      "advancements.paimonsword3.title": "派猛！",
+      "advancements.paimondimension1.descr": "进入派蒙维度",
+      "advancements.thegodofpaimon2.descr": "制作一个派蒙之神.",
+      "item.paimonsheadboots.name": "",
+      "advancements.paimondimension1.title": "我们在哪？",
+      "item.paimonswordpro.name": "高级派猛",
+      "advancements.paimon3.descr": "制作一个派蒙",
+      "item.paimonsword.name": "派猛",
+      "tile.paimonblocksuper.name": "超级派蒙方块",
+      "advancements.paimon3.title": "你制作了一个派蒙！",
+      "advancements.thegodofpaimon2.title": "派蒙之神！",
+      "advancements.paimongem3.title": "这是什么？",
+      "item.paimonsheadlegs.name": "",
+      "item.paimonsuper.name": "超级派蒙",
+      "advancements.paimonsword3.descr": "制作一把派猛",
+      "item.thegodofpaimon.name": "派蒙之神",
+      "tile.paimonblock.name": "派蒙方块",
+      "item.paimon.name": "派蒙",
+      "tile.paimonblockpro.name": "高级派蒙方块",
+      "advancements.paimongem3.descr": "制作一个派蒙宝石",
+      "item.paimongem.name": "派蒙宝石",
+      "advancements.paimonswordsuper3.title": "超级派猛！",
+      "item.paimonswordsuper.name": "超级派猛",
+      "advancements.paimonswordsuper3.descr": "制作一把超级派猛",
+      "item.paimonpro.name": "高级派蒙",
+      "item.paimondimension.name": "派蒙维度传送石",
+      "itemGroup.tabtab": "应急食品：重制",
+      "item.paimonsheadhelmet.name": "派蒙的头"
+    }
+  },
+  "workspaceSettings": {
+    "modid": "paimonfoodreborn",
+    "modName": "PaimonFoodReborn",
+    "version": "2.0",
+    "description": "A Reborn Version Of The PaiMon Food Mod.",
+    "author": "BunnimimiTotem",
+    "websiteURL": "https://www.mcmod.cn/class/5976.html",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "updateURL": "https://www.mcmod.cn/download/5976.html",
+    "modPicture": "logo",
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "1.12.2",
+    "credits": "BT,MCR",
+    "modElementsPackage": "net.mcreator.paimonfoodreborn",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202000214217
+}
